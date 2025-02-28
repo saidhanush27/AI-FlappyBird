@@ -1,4 +1,4 @@
-# 🐤 AI Flappy-Bird
+# 🐤 AI Flappy-Bird Game 
 
 An AI-powered Flappy Bird game that learns to play using **NEAT (NeuroEvolution of Augmenting Topologies)**. The AI evolves over multiple generations to improve its gameplay.
 
